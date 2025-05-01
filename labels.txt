@@ -1,0 +1,4 @@
+0 Kucing
+1 Anjing
+2 Burung
+3 Sapi
